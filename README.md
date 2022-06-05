@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>• Developer and Configer team in Discord  • Bot Designer and Aplication Developer  • Graphic design and logo making</p>
-</div>  
+</div></br>
 
 
 <div align="center">
