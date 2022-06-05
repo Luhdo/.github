@@ -18,7 +18,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804593723449414/sanaz.jpg" align="center" height="400" width="370" /></br></br>
 
-<p>[ graphic Design and Logo Maker - Artist ]</p>
+<p>[ Graphic Design and Logo Maker - Artist & Team Planner ]</p>
 </div></br>
 
 <div align="center">
