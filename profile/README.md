@@ -12,7 +12,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="center" height="400" width="370" /></br></br>
 
-<p>• MoonTeam</p>
+<p>• Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer</p>
 </div></br>
 
 <div align="center">
