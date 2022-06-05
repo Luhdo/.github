@@ -18,17 +18,17 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804593723449414/sanaz.jpg" align="center" height="400" width="370" /></br></br>
 
-<p>[ graphic Design and Logo Maker ]</p>
+<p>[ graphic Design and Logo Maker - Artist ]</p>
 </div></br>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" align="center" height="400" width="370" /></br></br>
 
-<p>• MoonTeam</p>
+<p>[ Discord Configure team - Instagram Supporter ]</p>
 </div></br>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804981465882674/matin.jpg" align="center" height="450" width="370" /></br></br>
 
-<p>• MoonTeam</p>
+<p>[ Discord COnfigure Team - Discord Developer ]</p>
 </div></br>
