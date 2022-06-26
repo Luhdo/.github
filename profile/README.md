@@ -11,9 +11,9 @@
   ```js
   const MoonTeam = {
     TeamWorks: {
-          Develop: ["bot dev", "security settings"],
-          Config: ["roles", "channels", "premission", "design channels"]
-        },
+       Develop: ["bot dev", "security settings"],
+       Config: ["roles", "channels", "premissions", "design channels"]
+    },
   
    Workhistory = {
        PublicServers: [Dejavu, Karma, Atom, Harmony],
