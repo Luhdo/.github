@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982772600109420554/moon.png" align="center" height="100" width="100" /></br>
-<p>• MoonTeam</p>
+<h1>• MoonTeam</h1>
 </div></br>
 
 
