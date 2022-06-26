@@ -32,7 +32,7 @@
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="left" height="400" width="370" />
-<h5>[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</h5>
+<h5 align="left">[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</h5>
 </div>
 
 -----
