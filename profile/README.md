@@ -12,7 +12,7 @@
   const MoonTeam = {
     TeamAboute: {
        Members: ["parzival", "satanic", "matin"],
-       XD: ["You eat bananas"]
+       XD: ["you eat bananas"]
     },
   
     TeamWorks: {
