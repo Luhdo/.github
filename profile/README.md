@@ -15,10 +15,10 @@
        Config: ["roles", "channels", "premissions", "design channels"]
     },
   
-   Workhistory = {
+    Workhistory = {
        PublicServers: [Dejavu, Karma, Atom, Harmony],
        PrivateServers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop]
-   }};
+  }};
   
   ```
 </div></br>
