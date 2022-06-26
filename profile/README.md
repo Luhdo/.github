@@ -30,15 +30,15 @@
 
 <h2 align="center">• Members</h2>
 
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="center" height="400" width="370" /></br></br>
+<div align="left">
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="left" height="400" width="370" /></br></br>
 
 <p>[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</p>
 </div></br>
 
 
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" align="center" height="400" width="370" /></br></br>
+<div align="left">
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" align="left" height="400" width="370" /></br></br>
 
 <p>[ Discord Configure Team - Discord Developer ]</p>
 </div></br>
