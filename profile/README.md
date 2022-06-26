@@ -33,14 +33,14 @@
 
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="left" height="400" width="370" /></br></br>
 
-<p>[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</p>
+<h5>[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</h5>
 </br>
 
 
 
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" align="left" height="400" width="370" /></br></br>
 
-<p>[ Discord Configure Team - Discord Developer ]</p>
+<h5>[ Discord Configure Team - Discord Developer ]</h5>
 </br>
 
 <div align="center">
