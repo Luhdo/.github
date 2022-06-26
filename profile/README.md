@@ -38,14 +38,14 @@
 -----
 
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" height="400" width="370" /></br></br>
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" height="400" width="370" />
 <h6 align="left">Discord Configure Team - Discord Developer</h6>
 </div>
 
 -----
 
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804981465882674/matin.jpg" height="450" width="370" /></br></br>
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804981465882674/matin.jpg" height="450" width="370" />
 
 <h6 align="left">Discord Configure team - Instagram Support</h6>
-</div></br>
+</div>
