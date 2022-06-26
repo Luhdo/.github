@@ -10,7 +10,8 @@
   
   ```js
   const MoonTeam = {
-    TeamAboute: "3 member",
+    TeamAboute: {
+       Members: ["parzival - satanic - matin", 
     TeamWorks: {
        Develop: ["bot dev", "security settings"],
        Config: ["roles", "channels", "premissions", "design channels"]
