@@ -37,7 +37,7 @@
 -----
 
 
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" align="left" height="400" width="370" /></br></br>
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" height="400" width="370" /></br></br>
 
 <h5>[ Discord Configure Team - Discord Developer ]</h5>
 </br>
