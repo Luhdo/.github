@@ -31,7 +31,7 @@
 <h2 align="center">• Members</h2>
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="left" height="400" width="370" />
+<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" height="400" width="370" />
 <h5 align="left">[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</h5>
 </div>
 
