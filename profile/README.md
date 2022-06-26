@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>• MoonTeam Dev & Configure in Discord -- Team Works: Aplication & Bot Developing For Discord Servers & Configured { Roles, Channels, Premissions, &... } </p>
-  <p>• Work history: Public Servers: [ Dejavu, Karma, Atom, Harmony]; Private Servers: [ Violence, Amazing, Vandal, Everything, Asgard, Lollipop ];</p>
+  <p>• Work history: Public Servers: Dejavu, Karma, Atom, Harmony --- Private Servers: Violence, Amazing, Vandal, Everything, Asgard, Lollipop </p>
 </div></br>
 
 
