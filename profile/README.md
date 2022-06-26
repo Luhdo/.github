@@ -9,7 +9,13 @@
   <p>• MoonTeam Dev & Configure in Discord -- Team Works: Aplication & Bot Developing For Discord Servers & Configured { Roles, Channels, Premissions, &... } </p>
   
   ```js
-   const history = {
+  const MoonTeam = {
+    TeamWorks: {
+          Develop: ["bot dev", "security settings"],
+          Config: ["roles", "channels", "premission", "design channels"]
+        },
+  
+   Workhistory = {
        PublicServers: [Dejavu, Karma, Atom, Harmony],
        PrivateServers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop]
    };
