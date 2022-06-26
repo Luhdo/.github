@@ -18,7 +18,7 @@
    Workhistory = {
        PublicServers: [Dejavu, Karma, Atom, Harmony],
        PrivateServers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop]
-   };
+   }};
   
   ```
 </div></br>
