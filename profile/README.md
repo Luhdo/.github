@@ -10,8 +10,8 @@
   
   ```js
    const history = {
-       Public Servers: [Dejavu, Karma, Atom, Harmony],
-       Private Servers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop]
+       PublicServers: [Dejavu, Karma, Atom, Harmony],
+       PrivateServers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop]
    };
   
   ```
