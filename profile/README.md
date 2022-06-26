@@ -32,14 +32,14 @@
 
 <div align="left">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" height="400" width="370" />
-<h5 align="left">[ Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer ]</h5>
+<h6 align="left">Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer</h6>
 </div>
 
 -----
 
 <div align="left">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" height="400" width="370" /></br></br>
-<h5 align="left">[ Discord Configure Team - Discord Developer ]</h5>
+<h6 align="left">Discord Configure Team - Discord Developer</h6>
 </div>
 
 -----
@@ -47,5 +47,5 @@
 <div align="left">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804981465882674/matin.jpg" height="450" width="370" /></br></br>
 
-<p>[ Discord Configure team - Instagram Support ]</p>
+<h6 align="left">Discord Configure team - Instagram Support</h6>
 </div></br>
