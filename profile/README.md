@@ -10,6 +10,7 @@
   
   ```js
   const MoonTeam = {
+    TeamMembers: "3 member",
     TeamWorks: {
        Develop: ["bot dev", "security settings"],
        Config: ["roles", "channels", "premissions", "design channels"]
