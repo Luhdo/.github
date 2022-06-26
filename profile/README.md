@@ -6,8 +6,8 @@
 
 
 <div align="center">
-  <p>• MoonTeam Dev & Configure in Discord -- Team Works: Aplication & Bot Developing For Discord Servers & Configured { Roles, Channels, Premissions, &... } /p>
-  <p>• /p>
+  <p>• MoonTeam Dev & Configure in Discord -- Team Works: Aplication & Bot Developing For Discord Servers & Configured { Roles, Channels, Premissions, &... } </p>
+  <p>• </p>
 </div></br>
 
 
