@@ -31,60 +31,83 @@
 
 ----
 
-<div align="left">
+parzival<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
 
-<div align="right">
+khanome przival<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
 
 ----
   
-<div align="left">
+khodet<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
 
-<div align="right">
+mamad<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
 
 ----
 
-<div align="left">
+hayzer<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
 
-<div align="right">
+mehdi unity<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
 
 ----
   
-<div align="left">
+amir creepy<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
 
-<div align="right">
+amir smayh<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
 
 ----
 
-<div align="left">
+ariya<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
 
-<div align="right">
+shadow<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
 
   ----
 
-<div align="left">
+viper<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
 
-<div align="right">
+hanzo<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
+  
+  ----
+
+karo<div align="left">
+<a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
+
+
+sepehr<div align="right">
+<a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
+<br/>
+
+  ----
+
+  
+hestia<div align="left">
+<a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
+
+
+aria<div align="right">
+<a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
+<br/>
+
+  ----
