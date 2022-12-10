@@ -97,14 +97,14 @@
   ----
 
 <div align="left">
-<a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875300-782a7d44-6ac4-46ae-a023-efb01cd422cc.png" align="left" height="110" style="width: 15%" ><a/></div>
+<a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875216-2c60955d-da5b-4cb9-8ddf-499940297106.png" align="left" height="110" style="width: 15%" ><a/></div>
   
 
 
 <div align="right">
-<a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206875216-2c60955d-da5b-4cb9-8ddf-499940297106.png" align="right" height="110" style="width: 15%" ></a></div>
+<a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206875370-390b8826-4eda-4df6-85cf-078e8d445ed9.png" align="right" height="110" style="width: 15%" ></a></div>
 <br/><br/><br/><br/>
 
   ----
-mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206875370-390b8826-4eda-4df6-85cf-078e8d445ed9.png" 
+
   
