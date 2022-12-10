@@ -41,7 +41,7 @@
 
 <div align="right">
 <a href="https://aparat.com/PARZIVALW/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029138046976/aparat.png" align="right" height="40" style="width: 18%" ></a></div>
-<br/><br/>
+<br/>
 
 ----
 
@@ -53,3 +53,12 @@
 <a href="mailto:abolparzival@gmail.com"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="right" height="40" style="width: 18%" ></a></div>
 <br/><br/><br/>
 
+----
+
+<div align="left">
+<a href="https://discord.gg/kEKgyTjHvN"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638028945125406/discord.png" align="left" height="40" style="width: 18%" ><a/></div>
+
+
+<div align="right">
+<a href="mailto:abolparzival@gmail.com"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="right" height="40" style="width: 18%" ></a></div>
+<br/><br/><br/>
