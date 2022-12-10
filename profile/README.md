@@ -97,7 +97,7 @@
   ----
 
 <div align="left">
-<a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875216-2c60955d-da5b-4cb9-8ddf-499940297106.png" align="left" height="110" style="width: 15%" ><a/></div>
+<a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="110" style="width: 15%" ><a/></div>
   
 
 
@@ -107,4 +107,4 @@
 
   ----
 
-  
+https://user-images.githubusercontent.com/106273190/206875216-2c60955d-da5b-4cb9-8ddf-499940297106.png
