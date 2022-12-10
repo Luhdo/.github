@@ -33,6 +33,10 @@
 
 parzival<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
+  
+![image](https://user-images.githubusercontent.com/106273190/206874721-44867a9e-15fd-4988-b44c-ea16f2583234.png)
+  
+![image](https://user-images.githubusercontent.com/106273190/206874991-1ac849d0-178d-4e89-9b16-5339715159f3.png)
 
 
 khanome przival<div align="right">
@@ -43,7 +47,10 @@ khanome przival<div align="right">
   
 khodet<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
+  
+![image](https://user-images.githubusercontent.com/106273190/206874742-b4fe05be-dffc-482d-a6ae-3b2f6af6c0ae.png)
 
+![image](https://user-images.githubusercontent.com/106273190/206874746-277a0f88-ca19-4b16-ab58-21b590e813f2.png)  
 
 mamad<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
@@ -53,6 +60,8 @@ mamad<div align="right">
 
 hayzer<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
+
+![image](https://user-images.githubusercontent.com/106273190/206875316-947481f2-3388-46a8-957d-d3ac66051a3b.png)
 
 
 mehdi unity<div align="right">
@@ -64,6 +73,9 @@ mehdi unity<div align="right">
 amir creepy<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
+![image](https://user-images.githubusercontent.com/106273190/206875385-36bf7c0a-76b1-46dc-af75-a1813993d012.png)
+
+
 
 amir smayh<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
@@ -74,6 +86,9 @@ amir smayh<div align="right">
 ariya<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
+![image](https://user-images.githubusercontent.com/106273190/206875346-8e0ddf26-00a9-4bdf-8e2a-f3c5891c290a.png)
+
+![image](https://user-images.githubusercontent.com/106273190/206874827-83ca5951-3c3c-43bd-aaa0-b6576dc39eb0.png)
 
 shadow<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
@@ -83,6 +98,8 @@ shadow<div align="right">
 
 viper<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
+
+![image](https://user-images.githubusercontent.com/106273190/206875360-09c882c2-48a0-4f86-901a-e6beff851c55.png)
 
 
 hanzo<div align="right">
@@ -94,6 +111,9 @@ hanzo<div align="right">
 karo<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
+![image](https://user-images.githubusercontent.com/106273190/206875300-782a7d44-6ac4-46ae-a023-efb01cd422cc.png)
+  
+![image](https://user-images.githubusercontent.com/106273190/206875216-2c60955d-da5b-4cb9-8ddf-499940297106.png)
 
 sepehr<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
@@ -105,6 +125,8 @@ sepehr<div align="right">
 hestia<div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="" align="left" height="40" style="width: 18%" ><a/></div>
 
+
+  ![image](https://user-images.githubusercontent.com/106273190/206875370-390b8826-4eda-4df6-85cf-078e8d445ed9.png)
 
 aria<div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="" align="right" height="40" style="width: 18%" ></a></div>
