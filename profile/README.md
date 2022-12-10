@@ -33,12 +33,14 @@
 
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206874721-44867a9e-15fd-4988-b44c-ea16f2583234.png" align="left" height="115" style="width: 14%" ><a/>
-  <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5></div>
+  <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5>
+  <h6></h6></div>
 <br/>
 
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206874991-1ac849d0-178d-4e89-9b16-5339715159f3.png" align="right" height="115" style="width: 14%" ></a>
-      <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5></div>
+      <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5>
+  <h6></h6></div>
 
 <br/><br/><br/><br/>
 
