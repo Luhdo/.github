@@ -28,26 +28,27 @@
   ```
 </div></br>
 
-<h2 align="center">• Members</h2>
+<div align="left">
+<a href="https://youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029322604574/youtube.png" align="left" height="40" style="width: 18%" ></a></div>
+
+
+
+<div align="right">
+<a href="https://aparat.com/PARZIVALW/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029138046976/aparat.png" align="right" height="40" style="width: 18%" ></a></div>
+<br/>
+
+----
+
+<div align="center">
+<a href="https://instagram.com/parzivalw_"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="center" height="40" style="width: 18%" ><a/></div>
+
+----
 
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" height="400" width="370" />
-<h6 align="left">• Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer</h6>
-</div>
+<a href="https://discord.gg/kEKgyTjHvN"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638028945125406/discord.png" align="left" height="40" style="width: 18%" ><a/></div>
 
 
------
-<div align="left">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" height="400" width="370" />
-<h6 align="left">• Discord Configure Team - Discord Developer</h6>
-</div>
+<div align="right">
+<a href="mailto:abolparzival@gmail.com"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="right" height="40" style="width: 18%" ></a></div>
+<br/><br/><br/>
 
------
-
-<div align="left">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804981465882674/matin.jpg" height="450" width="370" />
-
-<h6 align="left">• Discord Configure team - Instagram Support</h6>
-</div>
-
------
