@@ -83,7 +83,7 @@
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875385-36bf7c0a-76b1-46dc-af75-a1813993d012.png" align="left" height="115" style="width: 14%" ><a/>
   <h2>Amir Samkan</h2>
-    <h5>Age: 18. 〚⚙〛 Skill: </h5>
+    <h5>Age: 18. 〚⚙〛 Skill: Javascript, Css, HTML, HTML5, Node.js,  〚💖〛 AskMeAbout: Discord developer,  Discord configure, Telegram developer...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h6></div>
 <br/>
 
