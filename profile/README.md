@@ -35,7 +35,7 @@
 <h6 align="left">• Discord Developer - NODE.JS Developer - Web Designer - Aplication and Bot Developer</h6>
 </div>
 
------
+||
 
 <div align="left">
 <img src="https://cdn.discordapp.com/attachments/862717041152229426/982804760358948874/mehdi.jpg" height="400" width="370" />
