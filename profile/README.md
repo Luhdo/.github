@@ -113,7 +113,7 @@
 
 
 <div align="right">
-<a href="mailto:abolparzival@gmail.com"><img src=" https://user-images.githubusercontent.com/106273190/206875370-390b8826-4eda-4df6-85cf-078e8d445ed9.png" align="right" height="110" style="width: 15%" ></a></div>
+<a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206875370-390b8826-4eda-4df6-85cf-078e8d445ed9.png" align="right" height="110" style="width: 15%" ></a></div>
 <br/><br/><br/><br/>
 
   ----
