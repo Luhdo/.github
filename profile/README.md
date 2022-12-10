@@ -28,6 +28,12 @@
   ```
 </div></br>
 
+
+<div align="center">
+<a href="https://instagram.com/parzivalw_"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="center" height="40" style="width: 18%" ><a/></div>
+
+----
+
 <div align="left">
 <a href="https://youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029322604574/youtube.png" align="left" height="40" style="width: 18%" ></a></div>
 
