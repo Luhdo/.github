@@ -34,7 +34,7 @@
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206874721-44867a9e-15fd-4988-b44c-ea16f2583234.png" align="left" height="115" style="width: 14%" ><a/>
   <h2>Abolfazl Mohamadi...</h2>
-  <h5>Age: 21 --- Skill: Node.js, JavaScript, React, Redux, Ruby, UI-UX, --- AskMeAbout: Discord developer, Discord configure, </h5>
+  <h5>Age: 21 --- Skill: Node.js, JavaScript, React, Redux, Ruby, UI-UX, --- AskMeAbout: Discord developer, Discord configure... </h5>
   <h6></h6></div>
 <br/>
 
