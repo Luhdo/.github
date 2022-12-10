@@ -74,7 +74,7 @@
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206877235-ac60bd38-2a8d-4480-b061-c25528c7d60a.png" align="right" height="115" style="width: 14%" ></a>
   <h2>Nima hyzer</h2>
-    <h5>Age: 19. 〚⚙〛 Skill:  Javascript,  py, 〚💖〛 AskMeAbout: Discord developer, Discord configure...</h5>
+    <h5>Age: 19. 〚⚙〛 Skill:  Javascript, py, 〚💖〛 AskMeAbout: Discord developer, Discord configure...</h5>
     <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h6></div>
 <br/><br/><br/><br/>
 
@@ -88,7 +88,7 @@
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206877212-8ff00733-95b7-4cb3-bf3c-4a3d93fd5350.png" align="right" height="105" style="width: 14%" ></a>
   <h2>amirali shahsavari</h2>
-    <h5>Age: 17. 〚⚙〛 Skill:  C# , C++ , Arduino , html, css , JavaScript ,  TypeScript , 〚💖〛 AskMeAbout: Discord developer...</h5>
+    <h5>Age: 17. 〚⚙〛 Skill:  C#, C++, Arduino, html, css, JavaScript,  TypeScript, 〚💖〛 AskMeAbout: Discord developer...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h6></div>
 <br/><br/><br/><br/>
 
