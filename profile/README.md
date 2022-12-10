@@ -50,7 +50,7 @@
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206874742-b4fe05be-dffc-482d-a6ae-3b2f6af6c0ae.png" align="left" height="115" style="width: 14%" ><a/>
   <h2>Mhmd Akhtari Qalati</h2>
-    <h5>Age: 18. 〚⚙〛 Skill:  Js, NodeJs, Css, Html, MongoDB, ExpressJs, 〚💖〛 AskMeAbout: Discord developer...</h5></div>
+    <h5>Age: 18. 〚⚙〛 Skill:  Js, NodeJs, Css, Html, MongoDB, ExpressJs, 〚💖〛 AskMeAbout: Discord developer, Discord configure...</h5></div>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼-𝗟𝗲𝗮𝗱𝗲𝗿</h6></div>
 <br/>
 
