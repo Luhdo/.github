@@ -87,14 +87,18 @@
 
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206877212-8ff00733-95b7-4cb3-bf3c-4a3d93fd5350.png" align="right" height="105" style="width: 14%" ></a>
-    <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5></div>
+  <h2>amirali shahsavari</h2>
+    <h5>Age: 17. 〚⚙〛 Skill:  C# , C++ , Arduino , html, css , JavaScript ,  TypeScript , 〚💖〛 AskMeAbout: Discord developer...</h5>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h6></div>
 <br/><br/><br/><br/>
 
 ----
 
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875346-8e0ddf26-00a9-4bdf-8e2a-f3c5891c290a.png" align="left" height="115" style="width: 14%" ><a/>
-    <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5></div>
+  <h2>AriaZeus</h2>
+    <h5>Age: 19. 〚⚙〛 Skill:  Javascript, C# و UI-UX , Express.js و Node.js , React ,〚💖〛 AskMeAbout: Discord developer...</h5>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h6></div>
 <br/>
 
 
