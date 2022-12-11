@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982772600109420554/moon.png" align="center" height="100" width="100" /></br>
+<img src="https://media.discordapp.net/attachments/1050893243031765174/1051626307001258106/PicsArt_12-11-07.51.49.png" align="center" height="100" width="100" /></br>
 <h1>MoonTeam</h1>
 </div></br>
 
