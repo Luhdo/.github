@@ -61,7 +61,7 @@
 <br/>
 
 <div align="right">
-<a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206874746-277a0f88-ca19-4b16-ab58-21b590e813f2.png" align="right" height="115" style="width: 14%" ></a>
+<a href="https://www.instagram.com/amirfordx/"><img src="https://user-images.githubusercontent.com/106273190/206874746-277a0f88-ca19-4b16-ab58-21b590e813f2.png" align="right" height="115" style="width: 14%" ></a>
   <h2>ᴀᴍɪʀʜᴏꜱᴇɪɴ ᴍᴏʜᴇʙɪ...</h2>
     <h5>Age: 18. 〚⚙〛 Skill:  JavaScript, Css, Html, 〚💖〛 AskMeAbout: Discord developer, Discord configure...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼-𝗟𝗲𝗮𝗱𝗲𝗿</h6></div>
