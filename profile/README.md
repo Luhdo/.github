@@ -12,6 +12,12 @@
   const MoonTeam = {
     TeamAboute: {
        Roles: ["Leader", "Co-Leader", "Programmer", "Developer", "Configure", "Designer"],
+       Leader: [],
+       Co-Leader: [],
+       Programmer: [],
+       Developer: [],
+       Configure: [],
+       Designer: [],
        XD: ["you eat banana"]
     },
   
