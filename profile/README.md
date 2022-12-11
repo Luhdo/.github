@@ -76,7 +76,6 @@
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h6></div></div>
 <br/>
 
-
 <div align="right">
 <a href="https://www.instagram.com/hyzer_0rg/"><img src="https://user-images.githubusercontent.com/106273190/206877235-ac60bd38-2a8d-4480-b061-c25528c7d60a.png" align="right" height="115" style="width: 14%" ></a>
   <h2>ɴɪᴍᴀ ʜᴀʏᴢᴇʀ...</h2>
@@ -109,7 +108,6 @@
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h6></div>
 <br/>
 
-
 <div align="right">
 <a href="https://www.instagram.com/empsepehrpv/"><img src="https://user-images.githubusercontent.com/106273190/206875216-2c60955d-da5b-4cb9-8ddf-499940297106.png" align="right" height="115" style="width: 14%" ></a>
   <h2>sᴇᴘᴇʜʀ ᴇᴍᴘ...</h2>
@@ -125,7 +123,6 @@
     <h5>Age: 19. 〚⚙〛 Javascript, js, Node.js, 〚💖〛 AskMeAbout: Discord configure...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
 <br/>
-
 
 <div align="right">
 <a href="https://www.instagram.com/aydin_gorgi/"><img src="https://user-images.githubusercontent.com/106273190/206876792-f0187c31-b452-4c14-9080-e09e70afb370.png" align="right" height="115" style="width: 14%" ></a>
@@ -144,7 +141,6 @@
 </div>
  <br/>
   
-
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206875370-390b8826-4eda-4df6-85cf-078e8d445ed9.png" align="right" height="115" style="width: 14%" ></a>
     <h2>ᴀʀɪᴀ...</h2>
