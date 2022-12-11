@@ -116,7 +116,7 @@
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875360-09c882c2-48a0-4f86-901a-e6beff851c55.png" align="left" height="115" style="width: 14%" ><a/>
     <h2>sᴀᴇᴇᴅ ᴠɪᴘᴇʀ...</h2>
-    <h5>Age: 19. 〚⚙〛 Javascript, js, Node.js, 〚💖〛 Discord configure...</h5>
+    <h5>Age: 19. 〚⚙〛 Javascript, js, Node.js, 〚💖〛 AskMeAbout: Discord configure...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
 <br/>
 
@@ -124,7 +124,8 @@
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206876792-f0187c31-b452-4c14-9080-e09e70afb370.png" align="right" height="115" style="width: 14%" ></a>
   <h2>sʜᴀᴅᴏᴡ...</2>
-    <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5></div>
+    <h5>Age: 17. 〚⚙〛 Javascript, C++, c#, 〚💖〛 AskMeAbout: Discord configure...</h5>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
 <br/><br/><br/><br/>
   
   ----
@@ -133,7 +134,8 @@
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206874827-83ca5951-3c3c-43bd-aaa0-b6576dc39eb0.png" align="left" height="115" style="width: 14%" ><a/>
   <h2>sᴀɴɪ...</h2>
     <h5>Age: 18. 〚⚙〛 Graphics and art , 〚💖〛 Discord designer...</h5>
-  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿</h6></div>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿</h6>
+</div>
  <br/>
   
 
