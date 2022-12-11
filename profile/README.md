@@ -131,7 +131,7 @@
 
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206874827-83ca5951-3c3c-43bd-aaa0-b6576dc39eb0.png" align="left" height="115" style="width: 14%" ><a/>
-  <h2>Sani</h2>
+  <h2>sᴀɴɪ...</h2>
     <h5>Age: 18. 〚⚙〛 Graphics and art , 〚💖〛 Discord designer...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿</h6></div>
  <br/>
