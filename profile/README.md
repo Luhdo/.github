@@ -130,7 +130,23 @@
     <h5>Age: 17. 〚⚙〛 Javascript, C++, c#, 〚💖〛 AskMeAbout: Discord configure...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
 <br/><br/><br/><br/>
+
+  ----
+
+<div align="left">
+<a href=""><img src="https://media.discordapp.net/attachments/1050893243031765174/1051625179442315274/PicsArt_12-10-10.43.56.png" align="left" height="115" style="width: 14%" ><a/>
+  <h2>ᴋᴀʀᴏ ʜᴏssᴇɪɴ ᴘᴏᴜʀ...</h2>
+    <h5>Age: 17. 〚⚙〛  Javascript, Node.js 〚💖〛 Discord configure...</h5>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
+ <br/>
   
+<div align="right">
+<a href="gd"><img src="a" align="right" height="115" style="width: 14%" ></a>
+    <h2>ᴀʀɪᴀ...</h2>
+    <h5>Age: 18. 〚⚙〛 JS, Py, 〚💖〛 Discord configure...</h5>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
+<br/><br/><br/><br/>
+
   ----
 
 <div align="left">
