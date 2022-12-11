@@ -49,7 +49,7 @@
   
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206874742-b4fe05be-dffc-482d-a6ae-3b2f6af6c0ae.png" align="left" height="115" style="width: 14%" ><a/>
-  <h2>ᴍʜᴍᴅ ᴀᴋʜᴛᴀʀɪ...Qalati</h2>
+  <h2>ᴍʜᴍᴅ ᴀᴋʜᴛᴀʀɪ...</h2>
     <h5>Age: 18. 〚⚙〛 Skill:  Js, Node.Js, Css, Html, MongoDB, Express.Js, 〚💖〛 AskMeAbout: Discord developer, Discord configure...</h5></div>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼-𝗟𝗲𝗮𝗱𝗲𝗿</h6></div>
 <br/>
@@ -65,7 +65,7 @@
 
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875316-947481f2-3388-46a8-957d-d3ac66051a3b.png" align="left" height="115" style="width: 14%" ><a/>
-<h2>Mehdi Najafi...</h2>
+<h2>ᴍᴇʜᴅɪ ɴᴀᴊᴀғɪ...</h2>
     <h5>Age: 17. 〚⚙〛 Skill: Node.js, Py, 〚💖〛 AskMeAbout: Discord developer, Discord configure...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h6></div></div>
 <br/>
