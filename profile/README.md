@@ -158,7 +158,5 @@
 <div align="right">
 <a href="https://instagram.com/parzivalw_"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="right" height="40" style="width: 18%" ><a/></div>
 
-----
-
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638028945125406/discord.png" align="left" height="40" style="width: 18%" ><a/></div>
