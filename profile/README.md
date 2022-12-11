@@ -11,11 +11,11 @@
   ```js
   const MoonTeam = {
     TeamAboute: {
-       Roles: ["Leader", "Co-Leader", "Programmer", "Developer", "Configure", "Designer"],
-       Leader: [],
-       Co-Leader: [],
-       Programmer: [],
-       Developer: [],
+       Roles: ["Leader", "Co-Leader", "Programmer" , "Developer", "Configure", "Designer"],
+       Leader: [ "Abilfaz mohammadi" & "Aysan" ],
+       Co-Leader: [ "Mhmd akhtari" & "Amirhosein mohebi" ],
+       Programmer: [ "Mehdi najafi" & "Noma hayzer" ],
+       Developer: [ "" & "" ],
        Configure: [],
        Designer: [],
        XD: ["you eat banana"]
