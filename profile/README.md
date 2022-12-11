@@ -109,7 +109,7 @@
   <h2>Sepehr Emp</h2>
     <h5>Age: 17. 〚⚙〛 Skill: HTML, Js, Javascript, Css, 〚💖〛 AskMeAbout: Discord configer....</h5>
  <h6></h6></div>
-<br/><br/><br/><br/>
+<br/>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲<br/><br/><br/>
 
   ----
 
@@ -117,7 +117,7 @@
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://user-images.githubusercontent.com/106273190/206875360-09c882c2-48a0-4f86-901a-e6beff851c55.png" align="left" height="115" style="width: 14%" ><a/>
     <h2>Saeed Viper</h2>
     <h5>Age: 19. 〚⚙〛 Javascript, js, Node.js, 〚💖〛 Discord configure...</h5>
-  <h6></h6></div>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
 <br/>
 
 
