@@ -40,9 +40,10 @@
 
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://user-images.githubusercontent.com/106273190/206874991-1ac849d0-178d-4e89-9b16-5339715159f3.png" align="right" height="115" style="width: 14%" ></a>
-  <h2>dascadscdascdacds</h2>
-      <h5>dv,kndkl;vvnsdklvnsdkdkvlmsdklvnsdklvnskdnvksdnvklsdnvklsndklvnsdklnvlkdsnvvkldskldnvl</h5>
-  <h6>fvbdfbdfbfd</h6></div>
+  <h2>ᴀʏsᴀɴ...</h2>
+      <h5>Age: 20. 〚⚙〛Skill: JS, Node.js, C++, C# 〚💖〛 AskMeAbout: Mincraft developer...</h5>
+  <h6>fvbdfbdfbfd</h6>
+  <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗟𝗲𝗮𝗱𝗲𝗿</h6></div>
 <br/><br/><br/><br/>
 
 ----
