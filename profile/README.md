@@ -12,11 +12,11 @@
   const MoonTeam = {
     TeamAboute: {
        Roles: ["Leader", "Co-Leader", "Programmer" , "Developer", "Configure", "Designer"],
-       Leader: [ "Abilfaz mohammadi" , "Aysan" ],
-       Co-Leader: [ "Mhmd akhtari" , "Amirhosein mohebi" ],
-       Programmer: [ "Mehdi najafi" , "Nima hayzer" ],
-       Developer: [ "Amir samkan" , "Amirali shahsavari" , "Aria zeus" ],
-       Configure: [ "Sepehr emp" , "Saeed viper" , "Shadow" ],
+       Leader: [ "Abilfaz Mohammadi" , "Aysan" ],
+       Co-Leader: [ "Mhmd Akhtari" , "Amirhosein Mohebi" ],
+       Programmer: [ "Mehdi Najafi" , "Nima Hayzer" ],
+       Developer: [ "Amir Samkan" , "Amirali Shahsavari" , "Aria Zeus" ],
+       Configure: [ "Sepehr Emp" , "Saeed Viper" , "Shadow" ],
        Designer: [ "Sani" , "Aria" ],
        XD: ["you eat banana"]
     },
