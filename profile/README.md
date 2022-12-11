@@ -28,7 +28,7 @@
   
    Workhistory = {
        PublicServers: [Dejavu, Karma, Atom, Harmony, Oxygen, Atlas, RichClab, Asgard, Valhalla, Legacy, Lulmaint],
-       PrivateServers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop, kakh, night, elon city, pawer, wangord, siera, Atlantis, Atlanta]
+       PrivateServers: [Violence, Amazing, Vandal, Everything, Asgard, Lollipop, Kakh, Night, ElonCity, Pawer, Wangord, Siera, Atlantis, Atlanta]
   }};
   
   ```
