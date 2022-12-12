@@ -1,7 +1,5 @@
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/1050893243031765174/1051651923780051044/logo_moon_bot_1.png" align="center" height="300" width="300" />
-</div></br>
+
 
 
 <div align="left">
@@ -31,6 +29,15 @@
   }};
   
   ```
+  </br>
+  
+  
+  <div align="left">
+<img src="https://media.discordapp.net/attachments/1050893243031765174/1051651923780051044/logo_moon_bot_1.png" align="center" height="300" width="300" />
+</div></br>
+  
+  
+  
 </div></br>
 
 
