@@ -144,7 +144,7 @@
  <br/>
   
 <div align="right">
-<a href="gd"><img src="https://media.discordapp.net/attachments/1050893243031765174/1051625608603512922/PicsArt_12-11-03.03.10.png?width=473&height=473" align="right" height="115" style="width: 14%" ></a>
+<a href="https://www.instagram.com/Hanzoghost33/"><img src="https://media.discordapp.net/attachments/1050893243031765174/1051625608603512922/PicsArt_12-11-03.03.10.png?width=473&height=473" align="right" height="115" style="width: 14%" ></a>
     <h2>ʜᴀɴᴢᴏ...</h2>
     <h5>Age: 19. 〚⚙〛 Py, C+, 〚💖〛 Discord configure...</h5>
   <h6>•〚🌙〛𝗠𝗼𝗼𝗻𝗧𝗲𝗮𝗺 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲</h6></div>
